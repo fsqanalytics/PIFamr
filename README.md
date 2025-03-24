@@ -44,7 +44,7 @@ The primary objectives of this project include:
   Connect the newly developed database to an existing front-end to
   facilitate easy visualization and analysis of surveillance data.
 
-- **Thesis Documentation:**  
+- **Documentation:**  
   Document the entire research process and findings.
 
 ## Project Structure
